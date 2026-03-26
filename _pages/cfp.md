@@ -1,6 +1,9 @@
 ---
 title: "Call for Papers"
 permalink: /cfp/
+layout: default
+classes: wide
+author_profile: false
 ---
 
 ## Call for Papers

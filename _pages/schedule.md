@@ -1,6 +1,9 @@
 ---
 title: "Program Schedule"
 permalink: /schedule/
+layout: default
+classes: wide
+author_profile: false
 ---
 
 ## Program Schedule

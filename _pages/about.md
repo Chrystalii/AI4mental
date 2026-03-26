@@ -1,6 +1,9 @@
 ---
 title: "About"
 permalink: /about/
+layout: default
+classes: wide
+author_profile: false
 ---
 
 ## About AI4Mental

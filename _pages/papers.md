@@ -1,6 +1,9 @@
 ---
 title: "Accepted Papers"
 permalink: /papers/
+layout: default
+classes: wide
+author_profile: false
 ---
 
 ## Accepted Papers

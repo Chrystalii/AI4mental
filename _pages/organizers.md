@@ -1,6 +1,9 @@
 ---
 title: "Organizers"
 permalink: /organizers/
+layout: default
+classes: wide
+author_profile: false
 ---
 
 ## Organizing Committee
