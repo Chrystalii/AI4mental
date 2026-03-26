@@ -11,9 +11,9 @@ The organizing team brings together complementary expertise across data mining, 
 
 ### Workshop Chairs
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2em; margin: 2em 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5em; margin: 2em 0;">
 
-<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
+<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e0e0e0;">
 
 **Xiangmeng Wang**  
 *Research Assistant Professor*  
@@ -24,7 +24,7 @@ Research interests: AI for Mental Health, causal inference, and trustworthy arti
 
 </div>
 
-<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
+<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e0e0e0;">
 
 **Haoyang Li**  
 *Research Assistant Professor*  
@@ -35,7 +35,7 @@ Research interests include data management, data-driven machine learning, securi
 
 </div>
 
-<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
+<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e0e0e0;">
 
 **Chen Li Richard**  
 *Assistant Professor*  
@@ -47,7 +47,7 @@ Previously senior research associate at AIMtech Centre, CityUHK and postdoc at H
 
 </div>
 
-<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
+<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e0e0e0;">
 
 **Wei Wang**  
 *Leonard Kleinrock Chair Professor*  
@@ -59,7 +59,7 @@ Director of Scalable Analytics Institute (ScAi). Chair of ACM SIGKDD. Fellow of 
 
 </div>
 
-<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
+<div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e0e0e0;">
 
 **Qing Li**  
 *Chair Professor (Data Science) and Head*  
