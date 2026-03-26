@@ -1,14 +1,13 @@
 ---
 title: "About"
 permalink: /about/
-layout: default
-classes: wide
-author_profile: false
 ---
+
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 1em;">
 
 ## About AI4Mental
 
-The **International Workshop on AI for Cognitive and Mental Health Support (AI4Mental)** is a full-day interdisciplinary forum held in conjunction with [KDD 2026](https://kdd2026.kdd.org/).
+The **International Workshop on AI for Cognitive and Mental Health Support (AI4Mental)** is a half-day interdisciplinary forum held in conjunction with [KDD 2026](https://kdd2026.kdd.org/).
 
 ### Mission
 
@@ -38,7 +37,7 @@ The workshop is designed to attract a diverse and interdisciplinary audience, in
 
 ### Format
 
-AI4Mental will be organized as a **full-day on-site workshop** featuring:
+AI4Mental will be organized as a **half-day on-site workshop** featuring:
 - Keynote speeches from leading experts
 - Panel discussions with moderated debates
 - Long and short paper presentations
@@ -81,3 +80,5 @@ This workshop is supported by the Department of Computing at The Hong Kong Polyt
 ---
 
 **Keywords:** Cognitive and Mental Health, AI-assisted Mental Health Support, Large Language Models, Multimodal Learning, Conversational Agents, Psychological Intervention, Trustworthy and Responsible AI, Human-AI Collaboration
+
+</div>

@@ -1,10 +1,9 @@
 ---
 title: "Program Schedule"
 permalink: /schedule/
-layout: default
-classes: wide
-author_profile: false
 ---
+
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 1em;">
 
 ## Program Schedule
 
@@ -52,3 +51,5 @@ Participants will form small groups to discuss self-selected topics within the w
 ---
 
 *Schedule subject to change. Final program will be announced after paper acceptance notifications.*
+
+</div>

@@ -1,10 +1,9 @@
 ---
 title: "Call for Papers"
 permalink: /cfp/
-layout: default
-classes: wide
-author_profile: false
 ---
+
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 1em;">
 
 ## Call for Papers
 
@@ -81,3 +80,5 @@ AI-assisted cognitive and mental health support poses fundamentally data-driven 
 - Ethical and responsible deployment
 
 All of which are central to the SIGKDD mission.
+
+</div>

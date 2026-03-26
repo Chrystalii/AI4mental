@@ -1,10 +1,9 @@
 ---
 title: "Accepted Papers"
 permalink: /papers/
-layout: default
-classes: wide
-author_profile: false
 ---
+
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 1em;">
 
 ## Accepted Papers
 
@@ -58,3 +57,5 @@ The organizing team has successfully held two AI for mental health workshops:
 ---
 
 *Stay tuned for the list of accepted papers for AI4Mental @ KDD 2026!*
+
+</div>

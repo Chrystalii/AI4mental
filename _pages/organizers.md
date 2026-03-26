@@ -1,10 +1,9 @@
 ---
 title: "Organizers"
 permalink: /organizers/
-layout: default
-classes: wide
-author_profile: false
 ---
+
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 1em;">
 
 ## Organizing Committee
 
@@ -84,3 +83,5 @@ For any inquiries, please contact:
 - **Phone**: +852 3400 8421
 - **Co-organizer**: Haoyang Li - <haoyang-comp.li@polyu.edu.hk>
 - **Phone**: +852 2766 7281
+
+</div>
