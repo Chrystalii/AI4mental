@@ -15,13 +15,10 @@ The organizing team brings together complementary expertise across data mining, 
 
 <div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
 
-### Xiangmeng Wang
-
-**Research Assistant Professor**
-The Hong Kong Polytechnic University
+**Xiangmeng Wang**  
+*Research Assistant Professor*  
+The Hong Kong Polytechnic University  
 Hong Kong SAR, China
-
-xiangmengpoly.wang@polyu.edu.hk
 
 Research interests: AI for Mental Health, causal inference, and trustworthy artificial intelligence. Published over 20 papers in top-tier AI conferences and journals (WWW, SIGIR, IEEE TKDE, ACM TOIS, ACM TKDD). Extensive experience in community building and scholarly service, having served as Workshop Organizer at ICDE 2025 and ICDM 2025, and as Workshop Chair for ICWL-SETE 2025.
 
@@ -29,25 +26,21 @@ Research interests: AI for Mental Health, causal inference, and trustworthy arti
 
 <div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
 
-### Haoyang Li
-
-**Research Assistant Professor**
-The Hong Kong Polytechnic University
+**Haoyang Li**  
+*Research Assistant Professor*  
+The Hong Kong Polytechnic University  
 Hong Kong SAR, China
 
-haoyang-comp.li@polyu.edu.hk
-
-Ph.D. from HKUST (2023), supervised by Prof. Lei Chen. Research interests include data management, data-driven machine learning, security, and large language models.
+Research interests include data management, data-driven machine learning, security, and large language models.
 
 </div>
 
 <div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
 
-### Chen Li Richard
-
-**Assistant Professor**
-Department of Computing
-The Hong Kong Polytechnic University
+**Chen Li Richard**  
+*Assistant Professor*  
+Department of Computing  
+The Hong Kong Polytechnic University  
 Hong Kong SAR, China
 
 Previously senior research associate at AIMtech Centre, CityUHK and postdoc at HIT Lab NZ, University of Canterbury. Research published in Computers & Education, IEEE TLT, JCAL, IEEE VR, and OzCHI.
@@ -56,11 +49,10 @@ Previously senior research associate at AIMtech Centre, CityUHK and postdoc at H
 
 <div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
 
-### Wei Wang
-
-**Leonard Kleinrock Chair Professor**
-Computer Science and Computational Medicine
-University of California, Los Angeles
+**Wei Wang**  
+*Leonard Kleinrock Chair Professor*  
+Computer Science and Computational Medicine  
+University of California, Los Angeles  
 United States
 
 Director of Scalable Analytics Institute (ScAi). Chair of ACM SIGKDD. Fellow of ACM and IEEE. Recipient of NSF CAREER Award, Microsoft Research New Faculty Fellow, IEEE ICDM Outstanding Service Award, ACM SIGKDD Service Award.
@@ -69,11 +61,10 @@ Director of Scalable Analytics Institute (ScAi). Chair of ACM SIGKDD. Fellow of 
 
 <div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px;">
 
-### Qing Li
-
-**Chair Professor (Data Science) and Head**
-Department of Computing
-The Hong Kong Polytechnic University
+**Qing Li**  
+*Chair Professor (Data Science) and Head*  
+Department of Computing  
+The Hong Kong Polytechnic University  
 Hong Kong SAR, China
 
 Fellow of IEEE and IET/IEE. Chairperson of Hong Kong Web Society. Councilor of Database Society of CCF. Steering Committee member of DASFAA, ER, ICWL, UMEDIA, and WISE Society.
@@ -86,7 +77,7 @@ Fellow of IEEE and IET/IEE. Chairperson of Hong Kong Web Society. Councilor of D
 
 For any inquiries, please contact:
 
-- **Primary Contact:** Xiangmeng Wang - xiangmengpoly.wang@polyu.edu.hk - Phone: +852 3400 8421
-- **Co-organizer:** Haoyang Li - haoyang-comp.li@polyu.edu.hk - Phone: +852 2766 7281
+- **Primary Contact:** Xiangmeng Wang - xiangmengpoly.wang@polyu.edu.hk
+- **Co-organizer:** Haoyang Li - haoyang-comp.li@polyu.edu.hk
 
 </div>

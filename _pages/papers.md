@@ -11,6 +11,8 @@ permalink: /papers/
 
 The list of accepted papers will be announced after the notification date (June 4th, 2026).
 
+**Note:** Accepted papers will be archived through our organization website; and dual blind review policy.
+
 ### Previous Workshops
 
 The organizing team has successfully held two AI for mental health workshops:

@@ -52,14 +52,12 @@ AI4Mental will be organized as a **half-day on-site workshop** featuring:
 
 - **Xiangmeng Wang**
 - Email: xiangmengpoly.wang@polyu.edu.hk
-- Phone: +852 3400 8421
 - Affiliation: The Hong Kong Polytechnic University
 
 **Co-organizer:**
 
 - **Haoyang Li**
 - Email: haoyang-comp.li@polyu.edu.hk
-- Phone: +852 2766 7281
 - Affiliation: The Hong Kong Polytechnic University
 
 ### Location
