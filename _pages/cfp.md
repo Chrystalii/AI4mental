@@ -67,4 +67,6 @@ Submissions of papers must be in English, in PDF format, in the current ACM two-
 - **Long paper**: Submission of original work up to **eight pages** in length (unlimited references and appendix).
 - **Short paper**: Submission of work in progress with preliminary results, and position papers, up to **four pages** in length (unlimited references and appendix).
 
+**Note:** Accepted papers will be archived through our organization website; and dual blind review policy.
+
 </div>
