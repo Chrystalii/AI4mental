@@ -82,23 +82,6 @@ Fellow of IEEE and IET/IEE. Chairperson of Hong Kong Web Society. Councilor of D
 
 </div>
 
-## Program Committee
-
-| Name | Affiliation |
-|------|-------------|
-| Haoran Xie | Lingnan University, Hong Kong, China |
-| Baltasar Fernández-Manjón | Complutense University of Madrid, Spain |
-| Dragan Gasevic | Monash University, Australia |
-| Yoshihiro Okada | National University Corporation Kyushu University, Japan |
-| António Coelho | University of Porto, Portugal |
-| Yicong Li | Nanjing University of Aeronautics and Astronautics, China |
-| Wojciech Kusa | NASK National Research Institute, Poland |
-| Sudeshna Das | Emory University, USA |
-| Chuan Meng | The University of Edinburgh, UK |
-| Dan Zhang | National University of Singapore, Singapore |
-| Tri Dung Duong | University of New South Wales, Australia |
-| Md Rafiqul Islam | Charles Darwin University, Australia |
-
 ## Contact
 
 For any inquiries, please contact:
