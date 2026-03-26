@@ -62,26 +62,28 @@ Hong Kong SAR, China</p>
 
 ## Program Committee
 
-- **Haoran Xie**, Lingnan University, Hong Kong, China
-- **Baltasar Fernández-Manjón**, Complutense University of Madrid, Spain
-- **Dragan Gasevic**, Monash University, Australia
-- **Yoshihiro Okada**, National University Corporation Kyushu University, Japan
-- **António Coelho**, University of Porto, Portugal
-- **Yicong Li**, Nanjing University of Aeronautics and Astronautics, China
-- **Wojciech Kusa**, NASK National Research Institute, Poland
-- **Sudeshna Das**, Emory University, USA
-- **Chuan Meng**, The University of Edinburgh, UK
-- **Dan Zhang**, National University of Singapore, Singapore
-- **Tri Dung Duong**, University of New South Wales, Australia
-- **Md Rafiqul Islam**, Charles Darwin University, Australia
+<ul>
+  <li><strong>Haoran Xie</strong>, Lingnan University, Hong Kong, China</li>
+  <li><strong>Baltasar Fernández-Manjón</strong>, Complutense University of Madrid, Spain</li>
+  <li><strong>Dragan Gasevic</strong>, Monash University, Australia</li>
+  <li><strong>Yoshihiro Okada</strong>, National University Corporation Kyushu University, Japan</li>
+  <li><strong>António Coelho</strong>, University of Porto, Portugal</li>
+  <li><strong>Yicong Li</strong>, Nanjing University of Aeronautics and Astronautics, China</li>
+  <li><strong>Wojciech Kusa</strong>, NASK National Research Institute, Poland</li>
+  <li><strong>Sudeshna Das</strong>, Emory University, USA</li>
+  <li><strong>Chuan Meng</strong>, The University of Edinburgh, UK</li>
+  <li><strong>Dan Zhang</strong>, National University of Singapore, Singapore</li>
+  <li><strong>Tri Dung Duong</strong>, University of New South Wales, Australia</li>
+  <li><strong>Md Rafiqul Islam</strong>, Charles Darwin University, Australia</li>
+</ul>
 
 ## Contact
 
 For any inquiries, please contact:
 
-- **Primary Contact**: Xiangmeng Wang - <xiangmengpoly.wang@polyu.edu.hk>
-- **Phone**: +852 3400 8421
-- **Co-organizer**: Haoyang Li - <haoyang-comp.li@polyu.edu.hk>
-- **Phone**: +852 2766 7281
+<ul>
+  <li><strong>Primary Contact:</strong> Xiangmeng Wang - <a href="mailto:xiangmengpoly.wang@polyu.edu.hk">xiangmengpoly.wang@polyu.edu.hk</a> - Phone: +852 3400 8421</li>
+  <li><strong>Co-organizer:</strong> Haoyang Li - <a href="mailto:haoyang-comp.li@polyu.edu.hk">haoyang-comp.li@polyu.edu.hk</a> - Phone: +852 2766 7281</li>
+</ul>
 
 </div>

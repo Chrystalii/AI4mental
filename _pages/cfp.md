@@ -15,7 +15,7 @@ The **AI4Mental** workshop focuses on three key components of the AI-assisted co
 
 ### Three Pillars
 
-#### 🧠 AI as Assessment
+#### AI as Assessment
 This theme focuses on leveraging AI to assess cognitive states, mental health risks, and behavioral patterns in a scalable and data-driven manner.
 
 **Topics include:**
@@ -25,7 +25,7 @@ This theme focuses on leveraging AI to assess cognitive states, mental health ri
 - Longitudinal modeling and personalized risk prediction across time and contexts
 - Dataset construction, annotation strategies, and benchmark development for mental health assessment
 
-#### 💬 AI as Emotional Support
+#### AI as Emotional Support
 This theme explores AI systems that provide empathetic, supportive, and context-aware interactions to promote emotional well-being.
 
 **Topics include:**
@@ -35,7 +35,7 @@ This theme explores AI systems that provide empathetic, supportive, and context-
 - Personalization, trust, and user engagement in AI-based emotional support systems
 - Ethical considerations, safety alignment, and responsible deployment of AI emotional support tools
 
-#### 🎯 AI as Psychological Intervention
+#### AI as Psychological Intervention
 This theme emphasizes AI-driven interventions that actively support treatment, behavior change, and recovery processes.
 
 **Topics include:**
@@ -47,32 +47,12 @@ This theme emphasizes AI-driven interventions that actively support treatment, b
 
 ## Important Dates
 
-<table style="width: 100%; border-collapse: collapse; margin: 1em 0;">
-  <thead>
-    <tr style="background: #f0f0f0;">
-      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Event</th>
-      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Date</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #eee;"><strong>Paper Submission Deadline</strong></td>
-      <td style="padding: 12px; border-bottom: 1px solid #eee;">April 30th, 2026</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #eee;"><strong>Notification to Authors (Accept/Reject)</strong></td>
-      <td style="padding: 12px; border-bottom: 1px solid #eee;">June 4th, 2026</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #eee;"><strong>Camera-ready Deadline for Workshop Papers</strong></td>
-      <td style="padding: 12px; border-bottom: 1px solid #eee;">TBD</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #eee;"><strong>Workshop Day</strong></td>
-      <td style="padding: 12px; border-bottom: 1px solid #eee;">TBD</td>
-    </tr>
-  </tbody>
-</table>
+<ul>
+  <li><strong>Paper Submission Deadline:</strong> April 30th, 2026</li>
+  <li><strong>Notification to Authors (Accept/Reject):</strong> June 4th, 2026</li>
+  <li><strong>Camera-ready Deadline for Workshop Papers:</strong> TBD</li>
+  <li><strong>Workshop Day:</strong> TBD</li>
+</ul>
 
 <p><em>All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.</em></p>
 
@@ -80,7 +60,7 @@ This theme emphasizes AI-driven interventions that actively support treatment, b
 
 Please submit your work through the submission system (link to be announced).
 
-Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the "sigconf" proceedings template for LaTeX and the Interim Template for Word).
+Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the <a href="https://www.acm.org/publications/proceedings-template">ACM Website</a> (use the "sigconf" proceedings template for LaTeX and the Interim Template for Word).
 
 - **Long paper**: Submission of original work up to **eight pages** in length (unlimited references and appendix).
 - **Short paper**: Submission of work in progress with preliminary results, and position papers, up to **four pages** in length (unlimited references and appendix).

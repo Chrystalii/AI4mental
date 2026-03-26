@@ -13,27 +13,18 @@ The detailed program schedule will be announced closer to the workshop date.
 
 ### Tentative Schedule
 
-<table style="width: 100%; border-collapse: collapse; margin: 1em 0;">
-  <thead>
-    <tr style="background: #f0f0f0;">
-      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Time</th>
-      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Agenda</th>
-      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Comment</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">9:00 - 9:15</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Opening</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">9:15 - 10:30</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Keynote</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">10:30 - 11:00</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Coffee break</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">11:00 - 12:30</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Paper presentation session</td><td style="padding: 12px; border-bottom: 1px solid #eee;">6 long paper presentations</td></tr>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">12:30 - 13:30</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Lunch break</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">13:30 - 14:15</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Invited talk from health psychologist</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">14:15 - 15:00</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Panel discussion</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">15:00 - 15:30</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Coffee break</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">15:30 - 16:15</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Paper presentation session</td><td style="padding: 12px; border-bottom: 1px solid #eee;">4 short paper presentations</td></tr>
-    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">16:15 - 17:00</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Breakout discussion</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Participants form small groups to discuss self-selected topics</td></tr>
-  </tbody>
-</table>
+<ul>
+  <li><strong>9:00 - 9:15:</strong> Opening</li>
+  <li><strong>9:15 - 10:30:</strong> Keynote</li>
+  <li><strong>10:30 - 11:00:</strong> Coffee break</li>
+  <li><strong>11:00 - 12:30:</strong> Paper presentation session (6 long paper presentations)</li>
+  <li><strong>12:30 - 13:30:</strong> Lunch break</li>
+  <li><strong>13:30 - 14:15:</strong> Invited talk from health psychologist</li>
+  <li><strong>14:15 - 15:00:</strong> Panel discussion</li>
+  <li><strong>15:00 - 15:30:</strong> Coffee break</li>
+  <li><strong>15:30 - 16:15:</strong> Paper presentation session (4 short paper presentations)</li>
+  <li><strong>16:15 - 17:00:</strong> Breakout discussion (Participants form small groups to discuss self-selected topics)</li>
+</ul>
 
 ### Proposed Keynote Speech
 
@@ -59,6 +50,6 @@ Participants will form small groups to discuss self-selected topics within the w
 
 ---
 
-*Schedule subject to change. Final program will be announced after paper acceptance notifications.*
+<p><em>Schedule subject to change. Final program will be announced after paper acceptance notifications.</em></p>
 
 </div>
