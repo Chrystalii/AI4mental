@@ -15,12 +15,20 @@ The list of accepted papers will be announced after the notification date (June 
 
 Based on the interdisciplinary nature of the subject and data from similar workshops, we project the following:
 
-| Metric | Expected |
-|--------|----------|
-| Paper Submissions | 50-60 |
-| Paper Acceptances | 10 |
-| Long Papers | 6 |
-| Short Papers | 4 |
+<table style="width: 100%; border-collapse: collapse; margin: 1em 0;">
+  <thead>
+    <tr style="background: #f0f0f0;">
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Metric</th>
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Expected</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">Paper Submissions</td><td style="padding: 12px; border-bottom: 1px solid #eee;">50-60</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">Paper Acceptances</td><td style="padding: 12px; border-bottom: 1px solid #eee;">10</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">Long Papers</td><td style="padding: 12px; border-bottom: 1px solid #eee;">6</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">Short Papers</td><td style="padding: 12px; border-bottom: 1px solid #eee;">4</td></tr>
+  </tbody>
+</table>
 
 ### Previous Workshops
 

@@ -13,18 +13,27 @@ The detailed program schedule will be announced closer to the workshop date.
 
 ### Tentative Schedule
 
-| Time | Agenda | Comment |
-|------|--------|---------|
-| 9:00 - 9:15 | Opening | - |
-| 9:15 - 10:30 | Keynote | - |
-| 10:30 - 11:00 | Coffee break | - |
-| 11:00 - 12:30 | Paper presentation session | 6 long paper presentations |
-| 12:30 - 13:30 | Lunch break | - |
-| 13:30 - 14:15 | Invited talk from health psychologist | - |
-| 14:15 - 15:00 | Panel discussion | - |
-| 15:00 - 15:30 | Coffee break | - |
-| 15:30 - 16:15 | Paper presentation session | 4 short paper presentations |
-| 16:15 - 17:00 | Breakout discussion | Participants form small groups to discuss self-selected topics |
+<table style="width: 100%; border-collapse: collapse; margin: 1em 0;">
+  <thead>
+    <tr style="background: #f0f0f0;">
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Time</th>
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Agenda</th>
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">9:00 - 9:15</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Opening</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">9:15 - 10:30</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Keynote</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">10:30 - 11:00</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Coffee break</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">11:00 - 12:30</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Paper presentation session</td><td style="padding: 12px; border-bottom: 1px solid #eee;">6 long paper presentations</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">12:30 - 13:30</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Lunch break</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">13:30 - 14:15</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Invited talk from health psychologist</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">14:15 - 15:00</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Panel discussion</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">15:00 - 15:30</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Coffee break</td><td style="padding: 12px; border-bottom: 1px solid #eee;">-</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">15:30 - 16:15</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Paper presentation session</td><td style="padding: 12px; border-bottom: 1px solid #eee;">4 short paper presentations</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">16:15 - 17:00</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Breakout discussion</td><td style="padding: 12px; border-bottom: 1px solid #eee;">Participants form small groups to discuss self-selected topics</td></tr>
+  </tbody>
+</table>
 
 ### Proposed Keynote Speech
 

@@ -64,14 +64,22 @@ KDD 2026 Conference Venue
 
 ### Important Dates
 
-| Event | Date |
-|-------|------|
-| Paper Submission Deadline | April 30th, 2026 |
-| Notification to Authors | June 4th, 2026 |
-| Camera-ready Deadline | TBD |
-| Workshop Day | TBD |
+<table style="width: 100%; border-collapse: collapse; margin: 1em 0;">
+  <thead>
+    <tr style="background: #f0f0f0;">
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Event</th>
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd;">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">Paper Submission Deadline</td><td style="padding: 12px; border-bottom: 1px solid #eee;">April 30th, 2026</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">Notification to Authors</td><td style="padding: 12px; border-bottom: 1px solid #eee;">June 4th, 2026</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">Camera-ready Deadline</td><td style="padding: 12px; border-bottom: 1px solid #eee;">TBD</td></tr>
+    <tr><td style="padding: 12px; border-bottom: 1px solid #eee;">Workshop Day</td><td style="padding: 12px; border-bottom: 1px solid #eee;">TBD</td></tr>
+  </tbody>
+</table>
 
-*All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.*
+<p><em>All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.</em></p>
 
 ### Acknowledgments
 
