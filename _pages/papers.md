@@ -11,15 +11,6 @@ permalink: /papers/
 
 The list of accepted papers will be announced after the notification date (June 4th, 2026).
 
-### Expected Statistics
-
-| Metric | Expected |
-|--------|----------|
-| Paper Submissions | 50-60 |
-| Paper Acceptances | 10 |
-| Long Papers | 6 |
-| Short Papers | 4 |
-
 ### Previous Workshops
 
 The organizing team has successfully held two AI for mental health workshops:
