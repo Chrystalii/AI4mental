@@ -7,40 +7,23 @@ permalink: /cfp/
 
 ## Call for Papers
 
-The **AI4Mental** workshop focuses on three key components of the AI-assisted cognitive and mental health support ecosystem:
+The **AI4Mental** workshop focuses on three key components of the AI-assisted cognitive and mental health support ecosystem, topic of interest including:
 
-### Three Pillars
-
-#### AI as Assessment
-
-This theme focuses on leveraging AI to assess cognitive states, mental health risks, and behavioral patterns in a scalable and data-driven manner.
-
-**Topics include:**
-
+**AI as Assessment:**
 - Early detection and monitoring of mental health disorders (e.g., depression, anxiety, suicide risk, cognitive decline)
 - Multimodal mental health assessment using text, speech, vision, physiological, and social signals
 - Interpretable and fairness-aware assessment models for reliable clinical decision support
 - Longitudinal modeling and personalized risk prediction across time and contexts
 - Dataset construction, annotation strategies, and benchmark development for mental health assessment
-
-#### AI as Emotional Support
-
-This theme explores AI systems that provide empathetic, supportive, and context-aware interactions to promote emotional well-being.
-
-**Topics include:**
-
+  
+**AI as Emotional Support:**
 - Empathetic conversational agents and affect-aware dialogue systems
 - Emotion recognition and adaptive response generation in mental health conversations
 - Large Language Models (LLMs) for supportive dialogue, companionship, and mental well-being assistance
 - Personalization, trust, and user engagement in AI-based emotional support systems
 - Ethical considerations, safety alignment, and responsible deployment of AI emotional support tools
-
-#### AI as Psychological Intervention
-
-This theme emphasizes AI-driven interventions that actively support treatment, behavior change, and recovery processes.
-
-**Topics include:**
-
+  
+**AI as Psychological Intervention:**
 - AI-assisted delivery of psychological interventions (e.g., CBT, mindfulness, motivational interviewing)
 - Human-AI collaboration in therapeutic settings and clinician-in-the-loop systems
 - Intervention planning, progress tracking, and outcome evaluation using AI
@@ -67,6 +50,6 @@ Submissions of papers must be in English, in PDF format, in the current ACM two-
 - **Long paper**: Submission of original work up to **eight pages** in length (unlimited references and appendix).
 - **Short paper**: Submission of work in progress with preliminary results, and position papers, up to **four pages** in length (unlimited references and appendix).
 
-**Note:** Accepted papers will be archived through our organization website; and dual blind review policy.
+**Note:** Accepted papers will be archived on the workshop website maintained by the organisers, and will follow a double-blind review policy.
 
 </div>
