@@ -31,7 +31,7 @@ permalink: /organizers/
 <p style="margin: 0 0 0.5em 0;"><strong>Chen Li Richard</strong></p>
 <p style="margin: 0 0 0.5em 0; font-style: italic;">Assistant Professor</p>
 <p style="margin: 0 0 1em 0;">Department of Computing<br>The Hong Kong Polytechnic University<br>Hong Kong SAR, China</p>
-<p style="margin: 0;">Dr Li, Chen Richard received his B.Sc. degree in computer science and technology from Nanjing University in 2008, and the M.Sc. (Distinction) and PhD degrees in computer science from the City University of Hong Kong in 2011 and 2018 respectively. His research works were published in international journals such as Computers & Education, IEEE Transactions on Learning Technologies, and Journal of Computer Assisted Learning, as well as conference proceedings such as the proceedings of the IEEE Virtual Reality conference, the International Conference on Artificial Reality and Telexistance & Eurographics Symposium on Virtual Environments, Australian Conference on Human-Computer Interaction, and the International Conference on Blended Learning.</p>
+<p style="margin: 0;">Dr Li, Chen Richard received his B.Sc. degree in computer science and technology from Nanjing University in 2008, and the M.Sc. (Distinction) and PhD degrees in computer science from the City University of Hong Kong in 2011 and 2018 respectively. His research works were published in international journals such as Computers & Education, IEEE Transactions on Learning Technologies, and Journal of Computer Assisted Learning, as well as conference proceedings such as IEEE Virtual Reality conference and the International Conference on Blended Learning.</p>
 </div>
 
 <div style="padding: 1.5em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e0e0e0;">
