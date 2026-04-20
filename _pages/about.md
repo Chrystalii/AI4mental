@@ -69,7 +69,7 @@ KDD 2026 Conference Venue
 
 | Event | Date |
 |-------|------|
-| Paper Submission Deadline | April 30th, 2026 |
+| Paper Submission Deadline | <span style="text-decoration: line-through; color: #999;">April 30th, 2026</span> → **May 30th, 2026** |
 | Notification to Authors | June 4th, 2026 |
 | Camera-ready Deadline | TBD |
 | Workshop Day | TBD |
