@@ -43,7 +43,7 @@ The **AI4Mental** workshop focuses on three key components of the AI-assisted co
 
 ## Submission Guidelines
 
-Please submit your work through the submission system (link to be announced).
+Please submit your work through <a href="https://easychair.org/conferences/?conf=ai4mentalkdd2026" style="background: #667eea; color: white; padding: 0.2em 0.5em; border-radius: 4px; text-decoration: none; font-weight: bold;">EasyChair</a>.
 
 Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the "sigconf" proceedings template for LaTeX and the Interim Template for Word).
 
