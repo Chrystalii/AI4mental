@@ -9,7 +9,7 @@ permalink: /papers/
 
 **TBD - To Be Determined**
 
-The list of accepted papers will be announced after the notification date (June 4th, 2026).
+The list of accepted papers will be announced after the notification date (June 10th, 2026).
 
 ### Previous Workshops
 
