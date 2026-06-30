@@ -63,6 +63,4 @@ The organizing team has successfully held two AI for mental health workshops:
 
 ---
 
-*Stay tuned for the list of accepted papers for AI4Mental @ KDD 2026!*
-
 </div>
