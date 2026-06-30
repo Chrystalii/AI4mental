@@ -36,8 +36,8 @@ The **AI4Mental** workshop focuses on three key components of the AI-assisted co
 |-------|------|
 | **Paper Submission Deadline** | <span style="text-decoration: line-through; color: #999;">April 30th, 2026</span> → **May 30th, 2026** |
 | **Notification to Authors (Accept/Reject)** | <span style="text-decoration: line-through; color: #999;">June 4th, 2026</span> → **June 10th, 2026** |
-| **Camera-ready Deadline for Workshop Papers** | TBD |
-| **Workshop Day** | TBD |
+| **Camera-ready Deadline for Workshop Papers** | **June 19, 2026** |
+| **Workshop Day** | **August 09, 2026** |
 
 *All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.*
 

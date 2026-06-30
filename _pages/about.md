@@ -71,8 +71,8 @@ KDD 2026 Conference Venue
 |-------|------|
 | Paper Submission Deadline | <span style="text-decoration: line-through; color: #999;">April 30th, 2026</span> → **May 30th, 2026** |
 | Notification to Authors | <span style="text-decoration: line-through; color: #999;">June 4th, 2026</span> → **June 10th, 2026** |
-| Camera-ready Deadline | TBD |
-| Workshop Day | TBD |
+| Camera-ready Deadline | **June 19, 2026** |
+| Workshop Day | **August 09, 2026** |
 
 *All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.*
 
