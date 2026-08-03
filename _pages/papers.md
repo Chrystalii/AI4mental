@@ -25,6 +25,9 @@ permalink: /papers/
 
 9. **Ryan Zhao, Aijia Yuan, Yang Gao, Jianna Hur, Edlin Garcia Colato, Sagar Samtani**, [Multimodal Reward Modeling for Alliance-Aware Mental Health LLMs]({{ site.baseurl }}/assets/papers/paper_11_camera_ready.pdf)
 
+10. **Guan Gui, Peter Zandi, Jacob Taylor, Ananya Joshi**, [Adaptive Question Selection from a Large Question Bank for
+Field Recovery in Conversational Psychiatric Intake]({{ site.baseurl }}/assets/papers/KDD_Manuscript_Guan-4.pdf)
+
 ### Previous Workshops
 
 The organizing team has successfully held two AI for mental health workshops:
