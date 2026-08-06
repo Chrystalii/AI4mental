@@ -7,7 +7,7 @@ permalink: /papers/
 
 ## Accepted Papers
 
-1. **Theja Tulabandhula**, [Latent Temporal Representations for Longitudinal Passive-Sensing Prediction: A Characterization Study]({{ site.baseurl }}/assets/papers/AI4Mental2026_Paper14_Tulabandhula_et_al.pdf)
+1. **Theja Tulabandhula**, [Latent Temporal Representations for Longitudinal Passive-Sensing Prediction: A Characterization Study]({{ site.baseurl }}/assets/papers/AI4Mental2026_Paper14_Tulabandhula_et_al.pdf), Presentation Cancelled 
 
 2. **Misha Sadeghi, Robert Richer, Lydia Helene Rupp, Lena Schindler-Gmelch, Marie Keinert, Farnaz Rahimi, Malin Hager, Bernhard Egger, Matthias Berking, Bjoern M. Eskofier**, [Do Depressive Facial Patterns Transfer Across Cultures and Contexts? Evidence from a German RCT and E-DAIC]({{ site.baseurl }}/assets/papers/ID10_KDD_2026_AI4Mental_camera-ready.pdf)
 
@@ -15,7 +15,7 @@ permalink: /papers/
 
 4. **Hayato Yasuda, Akiko Takahashi, Tad Gonsalves, Yusuke Fukazawa**, [Interpretable Prediction of Short-Term HRV Dynamics from Music Acoustics]({{ site.baseurl }}/assets/papers/PaperID5_CameraReady.pdf)
 
-5. **Chaehee Park**, [Community-Level Psychological Stress Assessment in Seoul Using Public Urban Data]({{ site.baseurl }}/assets/papers/PaperID6_AI4Mental_KDD2026_CameraReady.pdf)
+5. **Chaehee Park**, [Community-Level Psychological Stress Assessment in Seoul Using Public Urban Data]({{ site.baseurl }}/assets/papers/PaperID6_AI4Mental_KDD2026_CameraReady.pdf) Presentation Cancelled 
 
 6. **Seungeun Chung, Hyuntae Jeong, Se Won Oh, Jeong Mook Lim, Kyung Ju Noh, Sun-Kyung Lee**, [SleepHelp Agent: A Clinician-in-the-loop Multi-Agent System for Lifelog-Grounded Insomnia Care in Sleep Psychiatry]({{ site.baseurl }}/assets/papers/SleepHelp_final.pdf)
 
