@@ -26,6 +26,8 @@ permalink: /papers/
 9. **Guan Gui, Peter Zandi, Jacob Taylor, Ananya Joshi**, [Adaptive Question Selection from a Large Question Bank for
 Field Recovery in Conversational Psychiatric Intake]({{ site.baseurl }}/assets/papers/KDD_Manuscript_Guan-4.pdf)
 
+10. **Meghana Karnam, Ananya Joshi**, [Adaptive Multi-Agent LLM Pipelines for Reliable Self-Harm Risk Screening]({{ site.baseurl }}/assets/papers/Meghana.pdf)
+
 ### Previous Workshops
 
 The organizing team has successfully held two AI for mental health workshops:
